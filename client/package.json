@@ -10,7 +10,6 @@
     "antd": "^5.1.7",
     "axios": "^1.2.6",
     "bootstrap": "^4.5.2",
-    "framer-motion": "9.0.3",
     "gulp": "4.0.2",
     "gulp-append-prepend": "1.0.9",
     "install": "^0.13.0",
