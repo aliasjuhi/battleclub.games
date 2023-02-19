@@ -27,12 +27,9 @@ function PlayerFind () {
       console.log('error user not found')
       return
     }
-     {
       
      setUsername(data.data.matches);
          console.log(data.data.matches);
-    
-    }
   }
    
   
